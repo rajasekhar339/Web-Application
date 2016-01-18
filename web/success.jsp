@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Welcome to IBM InterConnect</h1>
+        <h1>Have a Great Day </h1>
     </body>
 </html>
